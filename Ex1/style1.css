@@ -1,0 +1,29 @@
+
+#carre{
+    height: 100px;
+    width: 90px;
+    position:right;
+    background-color: yellow;
+
+}
+#carre1{
+    height: 100px;
+    width: 90px;
+    position:right;
+    background-color:green ;
+
+}
+#carre2{
+    height: 100px;
+    width: 90px;
+    position:left;
+    background-color: blue;
+
+}
+#carre3{
+    height: 100px;
+    width: 90px;
+    position:left;
+    background-color: red;
+
+}
